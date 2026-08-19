@@ -46,3 +46,4 @@ Yes, upscaling and variation commands are fully supported.
 ## License
 
 MIT
+ 
